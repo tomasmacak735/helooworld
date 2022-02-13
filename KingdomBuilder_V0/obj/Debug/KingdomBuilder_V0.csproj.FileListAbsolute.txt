@@ -1,0 +1,14 @@
+C:\Users\macak.tomas\source\repos\KingdomBuilder_V0\KingdomBuilder_V0\obj\Debug\KingdomBuilder_V0.csproj.AssemblyReference.cache
+C:\Users\macak.tomas\source\repos\KingdomBuilder_V0\KingdomBuilder_V0\obj\Debug\KingdomBuilder_V0.csproj.CoreCompileInputs.cache
+C:\Users\macak.tomas\source\repos\KingdomBuilder_V0\KingdomBuilder_V0\bin\Debug\KingdomBuilder_V0.exe.config
+C:\Users\macak.tomas\source\repos\KingdomBuilder_V0\KingdomBuilder_V0\bin\Debug\KingdomBuilder_V0.exe
+C:\Users\macak.tomas\source\repos\KingdomBuilder_V0\KingdomBuilder_V0\bin\Debug\KingdomBuilder_V0.pdb
+C:\Users\macak.tomas\source\repos\KingdomBuilder_V0\KingdomBuilder_V0\obj\Debug\KingdomBuilder_V0.exe
+C:\Users\macak.tomas\source\repos\KingdomBuilder_V0\KingdomBuilder_V0\obj\Debug\KingdomBuilder_V0.pdb
+R:\KingdomBuilder_V0\KingdomBuilder_V0\bin\Debug\KingdomBuilder_V0.exe.config
+R:\KingdomBuilder_V0\KingdomBuilder_V0\bin\Debug\KingdomBuilder_V0.exe
+R:\KingdomBuilder_V0\KingdomBuilder_V0\bin\Debug\KingdomBuilder_V0.pdb
+R:\KingdomBuilder_V0\KingdomBuilder_V0\obj\Debug\KingdomBuilder_V0.csproj.AssemblyReference.cache
+R:\KingdomBuilder_V0\KingdomBuilder_V0\obj\Debug\KingdomBuilder_V0.csproj.CoreCompileInputs.cache
+R:\KingdomBuilder_V0\KingdomBuilder_V0\obj\Debug\KingdomBuilder_V0.exe
+R:\KingdomBuilder_V0\KingdomBuilder_V0\obj\Debug\KingdomBuilder_V0.pdb
