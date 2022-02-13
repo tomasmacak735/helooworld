@@ -15,6 +15,8 @@ namespace KingdomBuilder_V0
             {
                 for (int Y = 0; Y < 10; Y++)
                 {
+                    // kokmetnta
+
                     switch (lokace[X, Y])
                     {
                         case "1":
